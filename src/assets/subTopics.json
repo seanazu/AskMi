@@ -1,0 +1,51 @@
+{
+    "ReactJS":[
+        "Components",
+        "Props",
+        "State Managment",
+        "Hooks",
+        "Ui Frameworks",
+        "CSS",
+        "JSX",
+        "Router",
+        "Animation"
+    ],
+    "ReactNative":[
+        "Components",
+        "Props",
+        "State Managment",
+        "Hooks",
+        "Ui Frameworks",
+        "CSS",
+        "JSX",
+        "Navigation",
+        "Xcode",
+        "Emulator",
+        "Animation",
+        "Redux"
+    ],
+    "NodeJS":[
+        "Security",
+        "PubSub",
+        "Threads",
+        "Monorepo",
+        "Routing",
+        "Middleware",
+        "Rest"
+    ],
+    "MongoDB":[
+        "Collections",
+        "Sorting",
+        "Schemas",
+        "Mongoshell",
+        "Queries",
+        "Indexing"
+    ],
+    "GoogleCloud":[
+        "Functions",
+        "Authentication",
+        "Firestore",
+        "Storage",
+        "Hosting"
+    ]
+}
